@@ -1,0 +1,1 @@
+print("Hello! I am Enoch Lal") #print statement which displays the greeting.
